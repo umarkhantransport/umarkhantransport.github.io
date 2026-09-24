@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umarkhantransport.github.io/sitemap.xml
